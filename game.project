@@ -25,3 +25,6 @@ scale = 0.01
 max_collisions = 4096
 max_contacts = 4096
 
+[html5]
+cssfile = /builtins/manifests/web/dark_theme.css
+
